@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**typos-r-us/typos-r-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- 👋 Hi, I’m @typos-r-us
+- 👀 I’m interested in responsive front end design, mobile application development and application security.
+- 🌱 I’m currently learning mobile app development in kotlin, dart and flutter. After this, I will take on the mountain that is JS and a framework or two.
+- 💞️ I’m looking to collaborate on web and mobile applications aimed at enhancing the accessibility of education and opportunity in under-represented and marginalized communities.
+- 📫 How to reach me: [email](mailto:typosforsale@gmail.com)
+
+<!---
+typos-r-us/typos-r-us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
