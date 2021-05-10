@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @typos-r-us
-- 👀 I’m interested in responsive front end design, mobile application development and application security.
-- 🌱 I’m currently learning responsive web design alongside mobile app development in kotlin, dart and flutter. After this, I will take on the mountain that is JS and learn a framework or two.
+- 👀 I am interested in responsive front end design, mobile application development and application security.
+- 🌱 My current challenge is in mobile app development in kotlin, dart and flutter. After this, I will take on the mountain that is JavaScript and learn a framework or two.
 - 💞️ I’m looking to collaborate on web and mobile applications to supplement my learning. I am particularly keen on projects which seek to enhance the accessibility of education and opportunity in under-represented and marginalized communities.
 - 📫 How to reach me: [email](mailto:typosforsale@gmail.com)
 
