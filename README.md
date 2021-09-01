@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👀 I am interested in responsive front end design 💻, mobile application development 📱 and application security 🔐
 - 🌱 My current challenge is in mobile app development in kotlin, dart and flutter. After this, I will take on the mountain that is JavaScript and learn a framework or two 🦾 🦾
 - 💞️ I’m looking to collaborate on web and mobile applications to supplement my learning. I am particularly keen on projects which seek to enhance the accessibility of education and opportunity in under-represented and marginalized communities.
-- 📫 How to reach me: [email](mailto:typosforsale@gmail.com)
+- 📫 How to reach me: [email](mailto:typosforsale@gmail.com)  <br />
 ![](https://komarev.com/ghpvc/?username=typos-r-us&color=grey&label=Visitors)
 <!---
 typos-r-us/typos-r-us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
